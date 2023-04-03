@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: #58575516;
+    color: #6a6767;
+}
+#header{
+    width: 30%;
+    height: 100vh;
+    background-image: url(images/IMG_6832.png);
+    background-size:cover;
+    background-position:center;
+}
+#container{
+    float: right;
+    padding: 10px 10%;
+}
